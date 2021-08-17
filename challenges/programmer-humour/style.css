@@ -1,0 +1,8 @@
+.container {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+  }
+  body{
+    background-color: rgb(167, 143, 189);
+  }
